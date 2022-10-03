@@ -12,6 +12,7 @@ public class MainActivity2 extends AppCompatActivity {
         Offers offers = new Offers();
         Payments payments = new Payments();
         Checks checks = new Checks();
+        Checks checks2 = new Checks();
 
 
     

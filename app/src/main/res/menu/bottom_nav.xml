@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/products"
+        android:title="products"
+        android:icon="@drawable/picnumfour"
+        />
+    <item
+        android:id="@+id/offers"
+        android:title="offers"
+        android:icon="@drawable/picnumthree"
+
+        />
+    <item
+        android:id="@+id/payments"
+        android:title="payments"
+        android:icon="@drawable/picnumtwo"
+        />
+    <item
+        android:id="@+id/checks"
+        android:title="checks"
+        android:icon="@drawable/picnumone"
+        />
+
+</menu>
